@@ -24,7 +24,6 @@ private:
     float velocityY;
     float posY;
 
-    // Animation
     std::vector<SDL_Texture*> runTextures;
     int currentFrame;
     Uint32 lastFrameTime;
