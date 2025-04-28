@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1745247019 source:c:\users\admin\desktop\codeblocks\game_sdl_dinog\main.cpp
+	"Game.h"
+
+1745403520 source:c:\users\admin\desktop\codeblocks\game_sdl_dinog\dino.cpp
+	"Dino.h"
+	<SDL_image.h>
+	<iostream>
+
+1745336206 c:\users\admin\desktop\codeblocks\game_sdl_dinog\dino.h
+	<SDL.h>
+	"Constants.h"
+	<vector>
+
+1745072052 c:\users\admin\desktop\codeblocks\game_sdl_dinog\constants.h
+
+1745417410 source:c:\users\admin\desktop\codeblocks\game_sdl_dinog\game.cpp
+	"Game.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1745305764 c:\users\admin\desktop\codeblocks\game_sdl_dinog\game.h
+	<SDL.h>
+	<SDL_ttf.h>
+	"Dino.h"
+	"Obstacle.h"
+	<vector>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+
+1745118492 c:\users\admin\desktop\codeblocks\game_sdl_dinog\obstacle.h
+	<SDL.h>
+	"Constants.h"
+	<vector>
+
+1745249977 source:c:\users\admin\desktop\codeblocks\game_sdl_dinog\obstacle.cpp
+	"Obstacle.h"
+
+1745253635 source:c:\users\admin\desktop\codeblocks\game_sdl_dinog\menu.cpp
+	"menu.h"
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<fstream>
+	<string>
+
+1745253690 c:\users\admin\desktop\codeblocks\game_sdl_dinog\menu.h
+	<SDL.h>
+
