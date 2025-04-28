@@ -3,7 +3,7 @@
 #include <iostream>
 
 Dino::Dino() {
-    dinoRect = {80, GROUND_Y, 70, 75}; // Vị trí và kích thước khủng long
+    dinoRect = {80, GROUND_Y, 70, 75}; 
     posY = (float)GROUND_Y;
     velocityY = 0.0f;
     isJumping = false;
@@ -75,7 +75,6 @@ void Dino::loadRunTextures(SDL_Renderer* renderer) {
     }
     runTextures.clear();
 
-    // Load texture mới
     const char* texturePaths[2] = {
         "./assets/images/dino4.png",
         "./assets/images/dino2.png"
@@ -99,7 +98,6 @@ void Dino::loadRunTextures(SDL_Renderer* renderer) {
         runTextures.push_back(texture);
     }
 
-    // Debug
     std::cout << "Loaded dino textures. Tex0: " << runTextures[0] << ", Tex1: " << runTextures[1] << std::endl;
 }
 
