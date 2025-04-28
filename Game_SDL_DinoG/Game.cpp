@@ -153,7 +153,6 @@ void Game::run() {
 
             renderText(renderer, font, "SPACE to RUN", 320, 188);
 
-            // Hiển thị high score
             std::string hs = "High Score: " + std::to_string(highScore);
             renderText(renderer, font, hs, 300, 215);
 
