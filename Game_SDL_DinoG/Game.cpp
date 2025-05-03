@@ -200,7 +200,7 @@ void Game::run() {
                 for (auto& obs : obstacles) {
                     obs.increaseSpeed();
                 }
-                if (bgSpeed<=1000) bgSpeed+= 50.0f;
+                if (bgSpeed<=800) bgSpeed+= 50.0f;
             }
 
             if (obstacle.getRect().x + obstacle.getRect().w < 0) {
