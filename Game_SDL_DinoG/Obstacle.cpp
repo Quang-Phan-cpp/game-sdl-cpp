@@ -24,7 +24,7 @@ SDL_Rect Obstacle::getRect() const {
 }
 
 void Obstacle::increaseSpeed() {
-    if( speed<=1000 ) speed += 50.0f;
+    if( speed<=800 ) speed += 50.0f;
 }
 
 float Obstacle::getSpeed() const {
