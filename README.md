@@ -35,14 +35,15 @@ DINO JUMP là một trò chơi đơn giản lấy cảm hứng từ game khủng
  <img src="https://github.com/user-attachments/assets/ce6804ef-95cf-429d-9bee-baf162fe186d" width="250" height="230"/>
 </p>
 
-- **Menu background** <p>
+- **Menu** <p>
 <p align="center">
- <img src="https://github.com/user-attachments/assets/496fafe0-2085-45e7-a4cf-c732aa052618" width="300" height="200"/>
+ <img src="https://github.com/user-attachments/assets/b9ad15c1-3a81-4fb7-9c0e-2725b4702251" width="400" height="220"/>
 </p>
 
-- **Gameplay background** <p>
+- **Gameplay** <p>
 <p align="center">
- <img src="https://github.com/user-attachments/assets/6b3015f4-08c0-440c-9fc7-8796f2a3fd3f" width="300" height="200"/>
+ <img src="https://github.com/user-attachments/assets/fe6b8a7a-23cc-4087-9cd5-8b14dbd6b196" width="350" height="200"/>
+ <img src="https://github.com/user-attachments/assets/04b43446-f397-493d-84f0-68b8e621596d" width="350" height="200"/>
 </p>
 
 - **Vật cản** <p>
@@ -52,5 +53,8 @@ DINO JUMP là một trò chơi đơn giản lấy cảm hứng từ game khủng
 </p>
 
 ## VI. Tài liệu tham khảo:
-
-
+- Tham khảo code mẫu trên Tài liệu lập trình nâng cao UET
+- Tham khảo code mẫu trên SDL2 và Lazy Foo
+- Tham khảo code mẫu trên ChatGPT
+- Một số hình ảnh lấy trên google chrome và vẽ bằng Gemini/ChatGPT
+- Âm thanh hiệu ứng lấy trên Pixabay & nhạc nền trên Youtube
