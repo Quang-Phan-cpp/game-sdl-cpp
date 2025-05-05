@@ -11,6 +11,7 @@
 - **Ngôn ngữ lập trình :** C++ <p>
 - **Thư viện sử dụng :** SDL2, SDL_image, SDL_ttf, SDL_mixer <p>
 - **Demo video game :** [Demo](https://youtu.be/6HOFsWlO_vA) <p>
+- **Ngưỡng điểm bảo vệ :** 8 <p>
 
 ## III. Mô tả trò chơi:
 DINO JUMP là một trò chơi đơn giản lấy cảm hứng từ game khủng long trên trình duyệt Google Chrome. Người chơi điều khiển nhân vật khủng long nhảy qua các chướng ngại vật để ghi điểm càng cao càng tốt. <p>
