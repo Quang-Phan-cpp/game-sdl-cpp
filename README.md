@@ -53,7 +53,7 @@ DINO JUMP là một trò chơi đơn giản lấy cảm hứng từ game khủng
 </p>
 
 ## VI. Tài liệu tham khảo:
-- Tham khảo code mẫu trên Tài liệu lập trình nâng cao UET
+- Tham khảo code mẫu trên file LTNC-Tài liệu bổ sung
 - Tham khảo code mẫu trên SDL2 và Lazy Foo
 - Tham khảo code mẫu trên ChatGPT
 - Một số hình ảnh lấy trên google chrome và vẽ bằng Gemini/ChatGPT
